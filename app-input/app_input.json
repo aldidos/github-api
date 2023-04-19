@@ -1,0 +1,8 @@
+{
+    "runAPI" : "CLONE_REPO",
+
+    "getRepoParams" : "./app-input/getRepoParams.json", 
+    "getReadmeParams" : "./app-input/getReadmeParams.json", 
+    "searchRepoParam" : "./app-input/searchRepoParams.json",
+    "runCloneInput" : "./app-input/runCloneInput.json"
+}

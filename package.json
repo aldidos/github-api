@@ -1,0 +1,19 @@
+{
+  "name": "github-api",
+  "version": "1.0.0",
+  "description": "A client for requesting github service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jungil kim",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "convert-csv-to-json": "^2.0.0",
+    "dotenv": "^16.0.3",
+    "git-clone": "^0.2.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.28.0"
+  }
+}

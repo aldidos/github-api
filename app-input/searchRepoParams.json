@@ -1,0 +1,10 @@
+{
+    "search_name" : "sr", 
+    "search_output_path" : "./search-result/2/", 
+    "api_parameters" : {
+        "q" : "tensorflow deep learning face audio speech recognition detection machine neural transformers pytorch neural in:readme fork:false language:python",
+        "sort" : "stars", 
+        "order" : "desc", 
+        "perPage" : 100
+    }     
+}

@@ -1,0 +1,5 @@
+data/
+node_modules/
+search-result/
+.env
+test_data_json_read_wirte.json
